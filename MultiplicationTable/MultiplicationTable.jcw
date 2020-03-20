@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MultiplicationTable</label>
+		<id>45</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>MultiplicationTable.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\InputScanner\InputScanner.jcp</path>
+		</project>
+		<project>
+			<path>MultiplicationTable.jcp</path>
+		</project>
+	</projects>
+</workspace>
